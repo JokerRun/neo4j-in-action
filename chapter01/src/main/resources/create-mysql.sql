@@ -1,3 +1,4 @@
+use users;
 create table t_user (
   id bigint not null,
   name varchar(255) not null,
